@@ -10,7 +10,7 @@ dependencies:
 - alias: admin
   name: halogo-admin
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.157
+  version: 0.0.158
 - name: halogo-gateway
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.21
