@@ -19,3 +19,6 @@ dependencies:
 - name: halogo-motorpass
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.8
+- name: halogo-payment
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.3
