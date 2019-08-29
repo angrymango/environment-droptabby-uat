@@ -16,7 +16,7 @@ expose:
     domain: halogo.hakt.com.au
     exposer: Ingress
     http: "true"
-'halogo-admin':
+halogo_admin:
   authUrl: "https://halogo.jx-uat.halogo.hakt.com.au/auth"
 jenkins:
   Servers:
