@@ -7,10 +7,9 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
-- alias: admin
-  name: halogo-admin
+- name: halogo-admin
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.158
+  version: 0.0.157
 - name: halogo-gateway
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.21
