@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.89
 - name: halogo-admin
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.210
+  version: 0.0.214
 - name: halogo-gateway
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.30
