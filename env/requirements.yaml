@@ -15,7 +15,7 @@ dependencies:
   version: 0.0.31
 - name: halogo-logistic
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.79
+  version: 0.0.97
 - name: halogo-motorpass
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.11
