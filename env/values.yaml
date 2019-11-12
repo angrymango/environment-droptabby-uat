@@ -18,6 +18,7 @@ expose:
     http: "true"
 halogo-admin:
   authUrl: https://halogo.jx-uat.halogo.hakt.com.au/auth
+  realm: jhipster
 jenkins:
   Servers:
     Global: {}
